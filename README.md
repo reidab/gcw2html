@@ -1,7 +1,7 @@
 # gcw2html
 
 A simple command-line utility to convert Google Code wiki markup to HTML
-using [wikiwm](wikiwym.googlecode.com/), a JavaScript Google Code wiki
+using [wikiwm](https://github.com/reidab/wikiwym), a JavaScript Google Code wiki
 library. 
 
 ## Instalation
