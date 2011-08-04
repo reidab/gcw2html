@@ -1,0 +1,21 @@
+{
+  "author": "Reid Beels <mail@reidbeels.com> (http://reidbeels.com)",
+  "name": "gcw2html",
+  "description": "Convert Google Code wiki markup to HTML using wikiwym",
+  "version": "0.1.0",
+  "homepage": "https://github.com/reidab/gcw2html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reidab/gcw2html.git"
+  },
+  "bin" : { "gcw2html" : "./gcw2html.js" },
+  "engines": {
+    "node": "~v0.4.10"
+  },
+  "dependencies": {
+    "wikiwym": ">=0.0.1",
+    "cli": "~>0.3.7",
+    "glob": "~>2.0.7"
+  },
+  "devDependencies": {}
+}
