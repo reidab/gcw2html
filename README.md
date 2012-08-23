@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/reidab/gcw2html.png)](http://travis-ci.org/reidab/gcw2html)
 # gcw2html
 
 A simple command-line utility to convert Google Code wiki markup to HTML
